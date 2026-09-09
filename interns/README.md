@@ -12,6 +12,7 @@ Sameer | Full Stack | iSamirTech
 Zaid | Cloud and DevOps | ZaidoGamerTech
 Mohamed | Cloud & DevOps | mohamed-azo
 Asmaa | Backend & API | Asmaa-naser
+Fatima | full stack |fatimaali-crypto
  
 
 ## Adding your file
