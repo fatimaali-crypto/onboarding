@@ -12,9 +12,8 @@ the right order, and remove the conflict markers.
 | Dalia | Software Engineering | daliakhodair-gif |
 | Mohamed | Cloud & DevOps | mohamed-azo |
 | Sameer | Full Stack | iSamirTech |
-| Shahd	| Cybersecurity |	shahedaseap376-lab |
+| Shahd | Cybersecurity | shahedaseap376-lab |
 | Zaid | Cloud and DevOps | ZaidoGamerTech |
-
 
 ## Adding your file
 
