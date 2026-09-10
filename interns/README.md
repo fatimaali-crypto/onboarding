@@ -9,11 +9,11 @@ the right order, and remove the conflict markers.
 | Name | Specialisation | Profile |
 | --- | --- | --- |
 | Asmaa | Backend & API | Asmaa-naser |
+| Dalia | Software Engineering | daliakhodair-gif |
 | Mohamed | Cloud & DevOps | mohamed-azo |
 | Sameer | Full Stack | iSamirTech |
 | Shahd | Cybersecurity | shahedaseap376-lab |
 | Zaid | Cloud and DevOps | ZaidoGamerTech |
- 
 
 ## Adding your file
 
