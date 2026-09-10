@@ -8,10 +8,11 @@ the right order, and remove the conflict markers.
 
 | Name | Specialisation | Profile |
 | --- | --- | --- |
-Sameer | Full Stack | iSamirTech
-Zaid | Cloud and DevOps | ZaidoGamerTech
-Mohamed | Cloud & DevOps | mohamed-azo
-Asmaa | Backend & API | Asmaa-naser
+| Asmaa | Backend & API | Asmaa-naser |
+| Mohamed | Cloud & DevOps | mohamed-azo |
+| Sameer | Full Stack | iSamirTech |
+| Shahd | Cybersecurity | shahedaseap376-lab |
+| Zaid | Cloud and DevOps | ZaidoGamerTech |
  
 
 ## Adding your file
